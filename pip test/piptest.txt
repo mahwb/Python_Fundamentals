@@ -1,0 +1,9 @@
+pip install Django
+pip list
+pip install Django > 
+pip freeze > lists installed packages in requirement format
+pip freeze > requirements.txt > outputs in requirement.txt file
+pip uninstall Django 
+pip show Django 
+pip install -r requirements.txt > install packages in file
+pip search Flask
